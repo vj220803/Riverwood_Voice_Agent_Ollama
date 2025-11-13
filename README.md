@@ -25,9 +25,9 @@ The system supports both **voice and text interaction**, provides **real-time pr
 
 ---
 ![Image1](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/FINAL%20SS%201.PNG)
-![Image1](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/%F0%9F%A7%AD%20Miss%20Riverwood%20Voice%20Agent%20%E2%80%93%20Latest%20Flowchart%20-%20visual%20selection.png)
-![Image1](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/%F0%9F%A7%AD%20Miss%20Riverwood%20Voice%20Agent%20%E2%80%93%20Latest%20Flowchart%20-%20visual%20selection.png)
-![Image2](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/%F0%9F%A7%AD%20Miss%20Riverwood%20Voice%20Agent%20%E2%80%93%20Latest%20Flowchart%20-%20visual%20selection%20(1).png)
+![Image2](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/FINAL%20SS%203.PNG)
+![Image3](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/%F0%9F%A7%AD%20Miss%20Riverwood%20Voice%20Agent%20%E2%80%93%20Latest%20Flowchart%20-%20visual%20selection.png)
+![Image4](https://github.com/vj220803/Riverwood_Voice_Agent_Ollama/blob/main/%F0%9F%A7%AD%20Miss%20Riverwood%20Voice%20Agent%20%E2%80%93%20Latest%20Flowchart%20-%20visual%20selection%20(1).png)
 
 
 ## 🧩 Project Flow (Simplified)
